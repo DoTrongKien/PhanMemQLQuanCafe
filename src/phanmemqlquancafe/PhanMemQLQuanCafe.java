@@ -430,30 +430,6 @@ System.out.print("Toi la Tuan Minh commit ngay 6");
         System.out.println("Toi la duc 4.5 "); 
         System.out.println("Toi la duc 4.6");
 
-        Systgit checkout AnhDuc2em.out.println("Toi la duc 4.7 "); 
-        System.out.println("Toi la duc 4.8");
-
-        System.out.println("Toi la duc 4.9 "); 
-        System.out.println("Toi la duc 5.0");
-
-        System.out.println("Toi la duc 5.1 "); 
-        System.out.println("Toi la duc 5.2");
-
-        System.out.println("Toi la duc 5.3 "); 
-        System.out.println("Toi la duc 5.4");
-
-        System.out.println("Toi la duc 5.5 "); 
-        System.out.println("Toi la duc 5.6");
-
-        System.out.println("Toi la duc 5.7 "); 
-        System.out.println("Toi la duc 5.8");
-
-        System.out.println("Toi la duc 5.9 "); 
-        System.out.println("Toi la duc 6.0");
-
-        System.out.println("Toi la duc 6.1");
-        System.out.println("Toi la duc 6.2");
-
         public class WhileLoopExample {
             public static void main(String[] args) {
                 int i = 1;
@@ -575,8 +551,9 @@ public class DoWhileExample {
     System.out.println("commit");
     System.out.println("commit");
     System.out.println("commit");
-    System.out.println("commit.");
     System.out.println("commit");
+    System.out.println("commit");
+    System.out.println("commit.");
     public class NativeExample {
         public native void nativeMethod();
         
